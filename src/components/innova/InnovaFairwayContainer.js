@@ -11,7 +11,7 @@ const InnovaFairwayContainer = ({ match }) => {
                     { discData.map( (disc, i) => {
                         if (disc.speed <= 9 && disc.speed > 5) {
                             return <li key={i}><Button component={Link} to={`${match.url}:${disc.discName}`}
-                                                       discName={disc.discName}>{disc.discName}<strong>{disc.speed}</strong></Button></li>
+                                                       discName={disc.discName}>{disc.discName}<strong>-{disc.speed}</strong></Button></li>
                         }
                     })
                     }

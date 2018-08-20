@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1958b4c6-a33c-470d-8825-ea7eac634a4d" name="Default" comment="" />
+    <list default="true" id="1958b4c6-a33c-470d-8825-ea7eac634a4d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js" afterPath="$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/innova/InnovaFairwayContainer.js" afterPath="$PROJECT_DIR$/src/components/innova/InnovaFairwayContainer.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js" afterPath="$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js" afterPath="$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,14 +32,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NavBarContainer.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/NavBarContainer.js">
+      <file leaf-file-name="InnovaPutterContainer.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InnovaMidRangeContainer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InnovaDriverContainer.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="104" lean-forward="false" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +76,9 @@
       <find>redi</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -67,14 +93,14 @@
         <option value="$PROJECT_DIR$/src/components/InnovaDriverContainer.js" />
         <option value="$PROJECT_DIR$/src/components/InnovaContainer.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js" />
         <option value="$PROJECT_DIR$/src/components/innova/InnovaDiscContainer.js" />
         <option value="$PROJECT_DIR$/src/components/innova/InnovaContainer.js" />
-        <option value="$PROJECT_DIR$/src/components/innova/InnovaFairwayContainer.js" />
-        <option value="$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js" />
-        <option value="$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/NavBarContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/innova/InnovaFairwayContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js" />
       </list>
     </option>
   </component>
@@ -94,6 +120,7 @@
     <option name="width" value="1543" />
     <option name="height" value="941" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -188,12 +215,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534783417106</updated>
-      <workItem from="1534783419227" duration="15641000" />
+      <workItem from="1534783419227" duration="15698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15641000" />
+    <option name="totallyTimeSpent" value="15698000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="7" />
@@ -204,7 +231,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.196875" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -326,40 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaFairwayContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="90" lean-forward="false" selection-start-line="12" selection-start-column="90" selection-end-line="12" selection-end-column="90" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="86" lean-forward="false" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="86" lean-forward="false" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="46" lean-forward="true" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#39#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaContainer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -367,6 +360,16 @@
           <folding>
             <element signature="e#0#39#0" expanded="false" />
             <element signature="e#432#541#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/NavBarContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -382,13 +385,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/NavBarContainer.js">
+    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaFairwayContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="101" column="25" lean-forward="false" selection-start-line="101" selection-start-column="15" selection-end-line="101" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="170">
+          <caret line="13" column="104" lean-forward="false" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaDriverContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="104" lean-forward="false" selection-start-line="13" selection-start-column="104" selection-end-line="13" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaMidRangeContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/innova/InnovaPutterContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="100" lean-forward="false" selection-start-line="13" selection-start-column="100" selection-end-line="13" selection-end-column="100" />
+          <folding />
         </state>
       </provider>
     </entry>

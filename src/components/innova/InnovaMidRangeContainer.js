@@ -11,7 +11,7 @@ const InnovaMidRangeContainer = ({ match }) => {
                 { discData.map( (disc, i) => {
                     if (disc.speed <= 5 && disc.speed > 3) {
                         return <li key={i}><Button component={Link} to={`${match.url}:${disc.discName}`}
-                                                   discName={disc.discName}>{disc.discName}<strong>{disc.speed}</strong></Button></li>
+                                                   discName={disc.discName}>{disc.discName}<strong>-{disc.speed}</strong></Button></li>
                     }
                 })
                 }
