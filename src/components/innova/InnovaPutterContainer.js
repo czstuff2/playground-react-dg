@@ -11,7 +11,7 @@ const InnovaPutterContainer = ({ match }) => {
                 { discData.map( (disc, i) => {
                     if (disc.speed <= 3) {
                         return <li key={i}><Button component={Link} to={`${match.url}:${disc.discName}`}
-                                                   discName={disc.discName}>{disc.discName}<strong>-{disc.speed}</strong></Button></li>
+                                                   discname={disc.discName}>{disc.discName}<strong>-{disc.speed}</strong></Button></li>
                     }
                 })
                 }
