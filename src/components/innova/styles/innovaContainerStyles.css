@@ -1,0 +1,9 @@
+#buttonStyle {
+    width: 100%;
+    min-height: 56px;
+    font-size: 1.75em;
+}
+
+#strongStyle {
+    padding-left: 10px;
+}
